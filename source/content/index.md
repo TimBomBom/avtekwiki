@@ -7,3 +7,4 @@ I will post my astro photos, and include pages on my research
 
 Check out my latest project: [[Overview|Measuring Star Temperature with a DSLR]]!
 
+test commit
