@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Projects/Measuring Stellar Temperatures/Overview.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "index"
             }
           }
         ],
@@ -187,9 +187,9 @@
   },
   "active": "0df64b5cadf4eaba",
   "lastOpenFiles": [
-    "index.md",
-    "Research Projects/Measuring Stellar Temperatures/index.md",
     "Research Projects/Measuring Stellar Temperatures/Overview.md",
+    "Research Projects/Measuring Stellar Temperatures/index.md",
+    "index.md",
     "Research Projects/Measuring Stellar Temperatures/Betelgeuse intensity profile.png",
     "Astrophotography/M42 - The Orion Nebula.md",
     "Astrophotography/Image - M42.png",
