@@ -5,7 +5,7 @@ Welcome! This website serves as a source of information and guide for all things
 
 Use the Explorer on the left side of the page to navigate to the info you want or search for key-words to find all pages containing that string. If you are on mobile, you can only search, or use this handy index:
 
-- page 1
+- [[Common Troubleshooting]]
 - page 2
 - page 3
 - page 4
