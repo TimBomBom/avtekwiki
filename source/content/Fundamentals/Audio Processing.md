@@ -31,6 +31,14 @@ An acoustic guitar, for example, is usually not playing in very low registers as
 > test
 > ![[sulfur.jpg]]
 
+>[!example]
+>buh
+>does this
+>callout work
+
+
+
+
 
 
 <br>
