@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0df64b5cadf4eaba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "187b370cf27d3f00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Common Troubleshooting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Common Troubleshooting"
-            }
-          },
-          {
-            "id": "f806772af906a075",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Equipment Guides/Allen & Heath CQ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Allen & Heath CQ"
-            }
-          },
-          {
             "id": "96abd5a41f3342c6",
             "type": "leaf",
             "state": {
@@ -63,8 +21,7 @@
               "title": "Audio Processing"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,10 +172,10 @@
   },
   "active": "96abd5a41f3342c6",
   "lastOpenFiles": [
-    "Fundamentals/sulfur.jpg",
-    "Fundamentals/Audio Processing.md",
     "Common Troubleshooting.md",
+    "Fundamentals/sulfur.jpg",
     "index.md",
+    "Fundamentals/Audio Processing.md",
     "Cable Wrapping.md",
     "Equipment Guides/Allen & Heath CQ.md",
     "Fundamentals",
