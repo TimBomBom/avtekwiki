@@ -27,13 +27,10 @@ HPFs are useful for removing rumbly sounds (typically <80Hz) which do not contri
 `insert photo`
 
 >[!example]
-An acoustic guitar, for example, is usually not playing in very low registers as that is the bass' territory. Most of the strings on a guitar are tuned around 100-400 Hz, with most of the "voice"/character of the guitar around 600-2000 Hz. Higher frequencies responsible for overtones and brightness and such. However, a rumbly signal will almost always be present. It is a safe bet to cut out the lowest frequencies as the guitar is likely strumming in higher registers. Doing this allows the bass instruments to play with less interference; it gives them "more room in the mix."
+>An acoustic guitar, for example, is usually not playing in very low registers as that is the bass' territory. Most of the strings on a guitar are tuned around 100-400 Hz, with most of the "voice"/character of the guitar around 600-2000 Hz. Higher frequencies responsible for overtones and brightness and such. However, a rumbly signal will almost always be present. It is a safe bet to cut out the lowest frequencies as the guitar is likely strumming in higher registers. Doing this allows the bass instruments to play with less interference; it gives them "more room in the mix."
+>
 > ![[sulfur.jpg]]
 
->[!example]
->buh
->does this
->callout work
 
 
 
