@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "96abd5a41f3342c6",
+            "id": "d53cded80530c28c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Jargon and Terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "f4cb56afb860840e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fundamentals/Audio Mixing Basics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Audio Mixing Basics"
+              "title": "Jargon and Terms"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,11 +170,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f4cb56afb860840e",
+  "active": "d53cded80530c28c",
   "lastOpenFiles": [
+    "Venues/TwelvEighty Dance Floor.md",
+    "Venues/The Hub - Loft.md",
+    "Jargon and Terms.md",
+    "Venues/The Hub - Nest.md",
+    "Venues/Alumni Memorial Hall (Great Hall).md",
     "index.md",
     "Fundamentals/Audio Mixing Basics.md",
-    "Venues/Alumni Memorial Hall (Great Hall).md",
     "Venues",
     "Common Troubleshooting.md",
     "Equipment Guides/Allen & Heath CQ.md",
